@@ -12,5 +12,6 @@ How to make a request:
 EXAMPLE
 -------
 
--Please add: so-and-so  /MBQ
+1.Please add: so-and-so  
+-MBQ
 
